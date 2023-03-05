@@ -12,6 +12,9 @@ Websites🌸:
 
 * [Leetcode](https://leetcode.com/sakuramomo1005/)
 
+* Google Scholar: https://scholar.google.com/citations?user=c2EaNEQAAAAJ&hl=en 
+
+
 <!--
 **sakuramomo1005/sakuramomo1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
